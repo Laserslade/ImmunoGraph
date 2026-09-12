@@ -1,0 +1,9 @@
+motif,kruskal_h,p_value
+coherent_ffl,1613.5600,0.00000
+incoherent_ffl,constant,not_applicable
+positive_feedback,1382.5218,0.00000
+negative_feedback,constant,not_applicable
+mutual_activation,constant,not_applicable
+mutual_inhibition,constant,not_applicable
+mixed_pair,constant,not_applicable
+hub_centralization,1323.6853,0.00000

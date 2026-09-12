@@ -1,0 +1,11 @@
+test,metric,value
+real_network,feedforward,1
+real_network,feedback,1
+real_network,mutual_inhibition,1
+test1_random_topology_sign,joint_hit_p_value,0.03340
+test2_value_position_permutation,joint_hit_p_value,0.00620
+test3_temporal_shuffle,real_hit_fraction,0.7000
+test3_temporal_shuffle,n_flagged_points,10
+test3_temporal_shuffle,p_value,0.00000
+test4_no_signal_control,silhouette_k4,0.8885
+test4_no_signal_control,reference_real_pulse_silhouette_k4_from_v5,0.7976

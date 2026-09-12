@@ -1,0 +1,30 @@
+system,metric,value
+chain,topology_precision_mean,1.0000
+chain,topology_recall_mean,1.0000
+chain,topology_f1_mean,1.0000
+chain,topology_sign_accuracy_mean,1.0000
+chain,peak_times,"{'A': np.float64(5.5), 'B': np.float64(6.5), 'C': np.float64(7.5)}"
+chain,correct_order,True
+feedback,topology_precision_mean,1.0000
+feedback,topology_recall_mean,1.0000
+feedback,topology_f1_mean,1.0000
+feedback,topology_sign_accuracy_mean,1.0000
+feedback,fraction_time_cycle_present,1.0
+toggle,topology_precision_mean,1.0000
+toggle,topology_recall_mean,0.9750
+toggle,topology_f1_mean,0.9833
+toggle,topology_sign_accuracy_mean,1.0000
+toggle,dominant_sequence,"['A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'B']"
+toggle,sign_consistency_fraction,0.95
+toggle,flip_detected,True
+toggle,flip_time,25.32051282051282
+feedforward,topology_precision_mean,1.0000
+feedforward,topology_recall_mean,1.0000
+feedforward,topology_f1_mean,1.0000
+feedforward,topology_sign_accuracy_mean,1.0000
+feedforward,a_peak_time,5.5
+feedforward,b_peak_time,6.5
+feedforward,c_peak_time,6.5
+feedforward,b_lags_a,True
+feedforward,c_lags_a,True
+feedforward,b_vs_c_gap,0.0

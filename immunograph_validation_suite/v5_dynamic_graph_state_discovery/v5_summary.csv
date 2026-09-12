@@ -1,0 +1,15 @@
+representation,metric,value
+trajectory,observed_ari,0.6503
+trajectory,p_value,0.0000
+trajectory,silhouette_k2,0.6923
+trajectory,silhouette_k3,0.7907
+trajectory,silhouette_k4,0.7681
+trajectory,silhouette_k5,0.7853
+trajectory,silhouette_k6,0.7858
+graph,observed_ari,0.5827
+graph,p_value,0.0000
+graph,silhouette_k2,0.7432
+graph,silhouette_k3,0.7738
+graph,silhouette_k4,0.7976
+graph,silhouette_k5,0.8104
+graph,silhouette_k6,0.7968

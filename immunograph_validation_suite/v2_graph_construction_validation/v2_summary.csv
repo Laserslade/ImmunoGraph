@@ -1,0 +1,6 @@
+system,precision,recall,f1,sign_accuracy,correlation,tags
+positive_negative_asymmetric,1.0000,0.5000,0.6667,1.0000,nan,positive;negative;asymmetric;strong;weak
+feedforward,1.0000,1.0000,1.0000,1.0000,1.0000,feed-forward;positive
+feedback_loop,1.0000,1.0000,1.0000,1.0000,1.0000,feedback;positive
+mutual_inhibition,1.0000,1.0000,1.0000,1.0000,1.0000,mutual_inhibition;negative
+indirect_chain,1.0000,1.0000,1.0000,1.0000,nan,indirect;positive
