@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "ImmunoGraph: a dynamic sensitivity graph framework for mechanistic neuroimmune ODE models"
+type: software
+authors:
+  - family-names: "[fill in]"
+    given-names: "[fill in]"
+repository-code: "https://github.com/Laserslade/ImmunoGraph"
+license: MIT
+preferred-citation:
+  type: software
+  title: "ImmunoGraph"
+  authors:
+    - family-names: "[fill in]"
+      given-names: "[fill in]"
+references:
+  - type: article
+    authors:
+      - family-names: "Chamberland"
+        given-names: "E."
+    title: "A computational model of Alzheimer's disease at the nano, micro, and macroscales"
+    journal: "Frontiers in Neuroinformatics"
+    year: 2024
+  - type: article
+    authors:
+      - family-names: "Moravveji"
+        given-names: "S."
+    title: "Sensitivity analysis of a mathematical model of Alzheimer's disease progression unveils important causal pathways"
+    journal: "Frontiers in Neuroinformatics"
+    year: 2025
+  - type: article
+    authors:
+      - family-names: "Vaughan"
+        given-names: "L.E."
+    title: "A mathematical model of neuroinflammation in severe clinical traumatic brain injury"
+    journal: "Journal of Neuroinflammation"
+    year: 2018
+  - type: article
+    authors:
+      - family-names: "Helmy"
+        given-names: "A."
+    title: "The cytokine response to human traumatic brain injury: temporal profiles and evidence for cerebral parenchymal production"
+    journal: "Journal of Cerebral Blood Flow and Metabolism"
+    year: 2011
