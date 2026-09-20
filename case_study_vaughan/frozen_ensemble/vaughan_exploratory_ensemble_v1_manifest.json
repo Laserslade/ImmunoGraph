@@ -1,0 +1,40 @@
+{
+  "ensemble_name": "vaughan_exploratory_ensemble_v1",
+  "status": "PRODUCTION_FROZEN",
+  "mode": "production",
+  "tier": "primary",
+  "n_samples": 2048,
+  "master_seed": 20260915,
+  "qmc_dims": 47,
+  "discrete_dims": {
+    "hill_exponents_exploratory": 5,
+    "d_switch_bernoulli": 1,
+    "cluster_selector_categoricals": 9
+  },
+  "d_zero_prob": 0.4,
+  "d_star_anchor": 0.1,
+  "partial_range_params": [
+    "a_inf2",
+    "hn",
+    "kpn1",
+    "kpn12",
+    "mu_M1",
+    "mu_M2",
+    "mu_n10",
+    "mu_n12",
+    "vn"
+  ],
+  "sampling_rule_for_partial_range": "For parameters with published cluster-specific fitted ranges, sampling was restricted to an equal-weight categorical mixture across available cluster marginals (Additional file 1), with a uniform distribution within each reported interval. Cluster-component assignments were made independently for each parameter because joint parameter distributions and cross-parameter correlations were unavailable. Missing cluster marginals were not imputed. Generated parameter vectors do not represent reconstructed patient clusters or samples from the original fitted ensemble.",
+  "helmy_used_in_construction": false,
+  "generated_at_unix": 1789526053.4019916,
+  "protocol_table_hash": "40828c24fcb96a85ac07f54b4972b91df6825841dc2d0be4485267efbeeaede4",
+  "n_accepted": 2041,
+  "n_rejected": 7,
+  "rejection_reasons": {
+    "integration_exception": 7
+  },
+  "helmy_used_in_filtering": false,
+  "helmy_used_in_acceptance_criteria": false,
+  "freeze_statement": "This ensemble (vaughan_exploratory_ensemble_v1) was generated and admissibility-filtered using only mathematical/numerical criteria (solver success, finiteness, non-negativity beyond tolerance, no blow-up). No Helmy et al. 2011 data, value, or derived quantity was used in parameter sampling, cluster-marginal construction, initial-condition sampling, or admissibility filtering at any point up to and including this freeze.",
+  "frozen_at_unix": 1789526158.8720696
+}
