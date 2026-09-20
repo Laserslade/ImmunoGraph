@@ -3,16 +3,16 @@ message: "If you use this software or its results, please cite it as below."
 title: "ImmunoGraph: a dynamic sensitivity graph framework for mechanistic neuroimmune ODE models"
 type: software
 authors:
-  - family-names: "[fill in]"
-    given-names: "[fill in]"
+  - family-names: "Yalla"
+    given-names: "Satya Thavanesh"
 repository-code: "https://github.com/Laserslade/ImmunoGraph"
 license: MIT
 preferred-citation:
   type: software
   title: "ImmunoGraph"
   authors:
-    - family-names: "[fill in]"
-      given-names: "[fill in]"
+    - family-names: "Yalla"
+      given-names: "Satya Thavanesh"
 references:
   - type: article
     authors:
