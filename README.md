@@ -119,4 +119,4 @@ MIT, see `LICENSE`. Third party datasets are covered separately, see
 
 ## Author
 
-[fill in]
+Satya Thavanesh Yalla
