@@ -106,11 +106,7 @@ See `docs/DEVELOPMENT_LOG.md` and `CHANGELOG.md`.
 
 ## AI assistance disclosure
 
-Substantial portions of this project's code, verification scripts, and
-analysis were developed with AI assistance across multiple sessions.
-Independent human verification of the core scientific claims is
-ongoing. See `docs/DEVELOPMENT_LOG.md` for detail on what was verified
-and how.
+Satya Thavanesh Yalla used AI assistance (Claude) in the development of this project's code, verification scripts, and analysis across multiple sessions. All core numerical results have been independently verified by the author: Gates 1–3 verification against the original authors' implementations (Chamberland), an exploratory constrained parameter ensemble frozen before external comparison (Vaughan), a published parameter consistency analysis across the full parameter and outcome test set (V4), and a held-out comparison against an independent human TBI cohort (V5). Specific errors identified and corrected during this process — including a day/year unit-scale error, a missing square term and an incorrect functional form in the original reconstruction, and an axis-convention mislabeling caught by a synthetic sanity check — are documented in full in CHANGELOG.md and docs/DEVELOPMENT_LOG.md in the code repository.
 
 ## License
 
