@@ -7,18 +7,24 @@
 Source: Helmy, A., Carpenter, K.L.H., Menon, D.K., Pickard, J.D.,
 Hutchinson, P.J.A. (2011). The cytokine response to human traumatic
 brain injury: temporal profiles and evidence for cerebral parenchymal
-production. Journal of Cerebral Blood Flow and Metabolism.
+production. Journal of Cerebral Blood Flow and Metabolism, 31(2):
+658-670. https://doi.org/10.1038/jcbfm.2010.142
 
 What is used: a small extracted subset of patient level peak cytokine
 timing for three cytokines, IL-1, IL-12, and IL-10, drawn from the
 paper's own supplementary material.
 
-Licensing and redistribution status: not yet confirmed. Do not commit
-the extracted subset to this repository until this is resolved.
-`case_study_vaughan/v5_helmy_comparison.py` should either read from a
-locally provided copy the user fetches themselves from the original
-paper's supplementary material, or from a redistributed copy only once
-permission or an applicable license has been confirmed.
+Licensing and redistribution status: confirmed non-redistributable
+without permission. The article itself is free to read but is not
+published under an open access license; its copyright is held by
+ISCBFM (2011), and re-use of its supplementary material requires
+permission from the copyright holder. The extracted subset is
+therefore not committed to this repository.
+`case_study_vaughan/v5_helmy_comparison.py` reads from a locally
+provided copy the user fetches themselves from the original paper's
+supplementary material at the DOI above. A redistributed copy may be
+added to this repository only if permission from ISCBFM is obtained,
+or if the applicable license changes.
 
 ## Model source code and parameters
 
